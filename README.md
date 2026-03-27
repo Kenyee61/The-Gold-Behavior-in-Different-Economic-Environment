@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes how **gold behaves under different macroeconomic conditions**, with a particular focus on **inflation** and **GDP growth**. Using **Python** and **SQL**, I built a workflow to collect, clean, validate, and merge macroeconomic and historical metal price data into an analysis-ready time-series dataset. :contentReference[oaicite:0]{index=0}
 
-The project compares gold with **silver** and **copper** to better understand whether gold behaves more like a defensive asset during economic uncertainty. The analysis includes **feature engineering, exploratory data analysis (EDA), subgroup comparisons, and regression modeling**. :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}
+The project compares gold with **silver** and **copper** to better understand whether gold behaves more like a defensive asset during economic uncertainty. The analysis includes **feature engineering, exploratory data analysis (EDA), subgroup comparisons, and regression modeling**.
 
 ---
 
